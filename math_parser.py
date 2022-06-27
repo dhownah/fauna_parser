@@ -1,7 +1,3 @@
-'''
-Created by:     Donna Saban
-                sabandonna@gmail.com
-'''
 import math as MATH
 import os
 import sys
